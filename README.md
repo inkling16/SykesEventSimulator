@@ -1,4 +1,4 @@
-# 2020EventSimulator
+# 2022EventSimulator
 This is an excel workbook which generates statistics and makes predictions during an FRC event.
 
 See the first tab "Instructions and FAQ" for more information on how to use this workbook. 
